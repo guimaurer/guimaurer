@@ -3,7 +3,7 @@
 
 - 🔥 Full Stack Developer with JavaScript
 
-- 🔭 Working at [Codymax](https://codymax.com.br/)
+- 🔭 Working at [Promont](www.promont.com.br)
 
 - 🏄‍♀️ Summer surfer
 
