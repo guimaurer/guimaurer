@@ -3,7 +3,7 @@
 
 - 🔥 Full Stack Developer with JavaScript
 
-- 🔭 Working at [Promont](www.promont.com.br)
+- 🔭 Working at [Promont](https://www.promont.com.br)
 
 - 🏄‍♀️ Summer surfer
 
