@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Maurer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guimaurer&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Full Stack Developer with JavaScript
+- 🔥 Full Stack Developer
 
 - 🔭 Working at [Promont](https://www.promont.com.br)
 
